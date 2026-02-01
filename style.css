@@ -377,12 +377,14 @@ h4{
     }
     .searchbar{
         margin:0;
-        margin-left: 24px;
+        width:54%;
+        margin-left: 19px;
         margin-top: 13.5px;
         height:40px;
     }
     .part1 input{
         padding: 0;
+        width:92%;
     }
     input::placeholder{
         padding-left: 10px;
@@ -398,7 +400,7 @@ h4{
     }
     .img2{
         margin-top: 16.5px;
-        margin-left: 15px;
+        margin-left: 11px;
         height:40px;
         width:40px;
     }
@@ -421,6 +423,7 @@ h4{
         transition: 0.7s ease-in-out;
         box-sizing: border-box;
         padding: 30px 20px;
+        z-index: 999;
     }
     .toggleClass{
         left:0;
@@ -481,7 +484,7 @@ h4{
     .cont3{
         height:64px;
         width:98%;
-        margin-top: 101px;
+        margin-top: 78px;
         padding:20px;
         box-sizing: border-box;
     }
