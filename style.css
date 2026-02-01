@@ -414,7 +414,7 @@ h4{
     .sidemenu{
         display: block;
         position: fixed;
-        height:79%;
+        height:76%;
         width:290px;
         left:-310px;
         top: 68px;
@@ -484,7 +484,7 @@ h4{
     .cont3{
         height:64px;
         width:98%;
-        margin-top: 78px;
+        margin-top: 48px;
         padding:20px;
         box-sizing: border-box;
     }
