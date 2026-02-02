@@ -357,7 +357,7 @@ h4{
     }
     .playbar{
         width: 91%;
-        bottom:95px;
+        bottom:68px;
     }
     .footer{
         display:block;
@@ -365,7 +365,7 @@ h4{
         box-sizing: border-box;
         height:60px;
         position: fixed;
-        bottom:36px;
+        bottom:10px;
         border-radius: 5px;
         padding: 5px;
         display: grid;
